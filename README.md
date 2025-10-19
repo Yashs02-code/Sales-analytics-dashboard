@@ -95,3 +95,5 @@ Selecting any supervisor dynamically filters all visuals — enabling individual
 👥 Performance Management: Supervisor filters help identify top regional contributors.
 
 6. Screenshots / Demos
+Dashboard Preview : 
+https://github.com/Yashs02-code/Sales-analytics-dashboard/blob/main/Screenshot%20of%20Dashboard.png
